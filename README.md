@@ -1,0 +1,1 @@
+# WeasyPrint buildpack for heroku
